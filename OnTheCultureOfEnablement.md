@@ -113,7 +113,6 @@ A lot of variables determine an enterprise's readiness and agility in deploying 
 The readiness and agility of an enterprise in deploying AI use cases are influenced by a variety of factors that span organizational, technical, cultural, and strategic dimensions. Assessing these variables helps identify the strengths and weaknesses that can impact an enterprise's ability to successfully implement AI initiatives. Below are the key variables that determine an enterprise's readiness and agility in deploying AI use cases:
 
 ## Data, IT, and Culture Variables
-Here is the text converted into a markdown table:
 
 | Category                        | Description                                                                                                                                                             |
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
